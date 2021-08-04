@@ -1,5 +1,5 @@
 # Reminder-Buddy
-This is a reminder app which memorizes things for you that are likely to be forgotten .
+This is a reminder app which memorizes things for you that are likely to be forgotten.
 
 ## Here is the URL to view the app
 https://reminder-buddy-reactjs.netlify.app
@@ -17,7 +17,7 @@ https://reminder-buddy-reactjs.netlify.app
   
 > Delete the entire reminder list once used 
   
-> Messages like pop ups are there to make sure what a user has performed recent actions 
+> Pop ups with message corresponding to action performed by the user
   
 3. Uses local storage of the system to store the list of reminders no issue of refreshing the page .
 
